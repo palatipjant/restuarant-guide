@@ -1,0 +1,11 @@
+|-- controllers
+|   -- restuarant.controller.js
+|-- middlewares
+|   -- index.js
+|-- models
+|   -- restuarant.model.js
+|-- services
+|   -- restuarant.service.js
+|   -- index.js
+|-- db.js
+|-- index.js
